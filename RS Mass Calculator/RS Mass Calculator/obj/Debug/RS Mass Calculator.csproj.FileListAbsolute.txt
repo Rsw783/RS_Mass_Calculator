@@ -1,0 +1,19 @@
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\bin\Debug\RS Mass Calculator.exe.config
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\bin\Debug\RS Mass Calculator.exe
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\bin\Debug\RS Mass Calculator.pdb
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS Mass Calculator.csprojResolveAssemblyReference.cache
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS_Mass_Calculator.form_Herblore.resources
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS_Mass_Calculator.Form_MainMenu.resources
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS_Mass_Calculator.Properties.Resources.resources
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS Mass Calculator.csproj.GenerateResource.Cache
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS Mass Calculator.exe
+D:\OneDrive\School\C# .Net Class\Williams_Ryan_Ch4\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS Mass Calculator.pdb
+C:\Users\rsw78\Desktop\Program\Games\RS Mass Calculator\RS Mass Calculator\bin\Debug\RS Mass Calculator.exe.config
+C:\Users\rsw78\Desktop\Program\Games\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS Mass Calculator.exe
+C:\Users\rsw78\Desktop\Program\Games\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS Mass Calculator.pdb
+C:\Users\rsw78\Desktop\Program\Games\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS Mass Calculator.csprojResolveAssemblyReference.cache
+C:\Users\rsw78\Desktop\Program\Games\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS_Mass_Calculator.form_Herblore_PotionAmountCalc.resources
+C:\Users\rsw78\Desktop\Program\Games\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS_Mass_Calculator.form_Herblore.resources
+C:\Users\rsw78\Desktop\Program\Games\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS_Mass_Calculator.Form_MainMenu.resources
+C:\Users\rsw78\Desktop\Program\Games\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS_Mass_Calculator.Properties.Resources.resources
+C:\Users\rsw78\Desktop\Program\Games\RS Mass Calculator\RS Mass Calculator\obj\Debug\RS Mass Calculator.csproj.GenerateResource.Cache
